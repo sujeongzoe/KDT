@@ -9,6 +9,7 @@ Welcome to the KDT GitHub repository! This repository contains code for various 
 #### Dataset
 - **Dataset Source:** Medical Cost Personal Datasets (Kaggle)
   - [Link to Kaggle Dataset]([https://www.kaggle.com/datasets/mirichoi0218/insurance])
+https://www.kaggle.com/datasets/mirichoi0218/insurance
 
 #### Project Description
 The Insurance Prediction project aims to predict medical costs using the "Medical Cost Personal Datasets" obtained from Kaggle. The analysis involves performing multiple linear regression based on variables selected through Exploratory Data Analysis (EDA).
